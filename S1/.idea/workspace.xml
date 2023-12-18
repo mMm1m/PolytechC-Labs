@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5fd8bae6-468c-4384-94c0-ae8f0e60898b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Algorithms_and_DS/Infix_Postfix/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithms_and_DS/Infix_Postfix/ExprPart.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithms_and_DS/Infix_Postfix/ExprPart.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithms_and_DS/Infix_Postfix/Functions.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithms_and_DS/Infix_Postfix/Functions.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithms_and_DS/Infix_Postfix/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ITMO_Java/Reverse/src/ReverseSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/.cmake/api/v1/reply/cache-v2-0652ce145460e6a8fc39.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-5842a0d0aee3b474579a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-f69a1f6129b76fe18dd7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/.cmake/api/v1/reply/index-2023-07-02T15-01-22-0876.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeFiles/Stack_On_Vector__List.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Simple C++ labs/Гольчанский_МД.(3530904 10003)_01.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Simple C++ labs/Гольчанский_МД.(3530904 10003)_01.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="6jj3k62q" />
+  </component>
+  <component name="ProjectId" id="2UJ9CKrHP0ob5J8N2Az4mLzIGxy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/home/max/All_Projects/Advanced C++ labs/S1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fd8bae6-468c-4384-94c0-ae8f0e60898b" name="Changes" comment="" />
+      <created>1692646688829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692646688829</updated>
+      <workItem from="1692646689906" duration="348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
